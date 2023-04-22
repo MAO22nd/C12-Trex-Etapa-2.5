@@ -81,6 +81,6 @@ function spawnClouds(){
    clonud.depth = trex.depth 
    trex.depth = trex.depth = +1
 }
-
+}
 
 
