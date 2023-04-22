@@ -78,7 +78,7 @@ function spawnClouds(){
    clound.addImage(cloundimage)
    clound.scale = 0.4
    clound.velocityX= -3
-   clonud.depth = trex.depth 
+   clound.depth = trex.depth 
    trex.depth = trex.depth = +1
 }
 }
